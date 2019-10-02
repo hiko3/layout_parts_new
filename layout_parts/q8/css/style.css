@@ -74,6 +74,7 @@
 
 .q8-form-title {
 	position: relative;
+	margin-bottom: 20px;
 }
 
 .q8-form-title:before {
@@ -105,7 +106,7 @@
 }
 
 .q8-main-items > li {
-	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .q8-main-items-title {
@@ -294,11 +295,10 @@
 	box-sizing: border-box;
 	font-size: 12px;
 	resize: none;
-	margin-top: 20px;
 }
 
 .q8-side-text:focus {
-	box-shadow: 0 0 7px #00BCD4;;
+	box-shadow: 0 0 7px #00BCD4;
 }
 
 

@@ -11,7 +11,7 @@
 }
 
 
-.q7__box_1 {
+.float-text {
 	width: 225px;
 	font-size: 16px;
 	background-color: #fff;
@@ -20,7 +20,7 @@
 	box-sizing: border-box;
 }
 
-.q7__box_1:first-child {
+.float-text:first-child {
 	margin-right: 50px;
 }
 
@@ -45,12 +45,12 @@
 }
 
 /*- Q7-3 ---------------------------------------------*/
-.q7-3 {
+.inlineblock-container {
 	width: 100%;
 	font-size: 0;
 }
 
-.box-2 {
+.inlineblock-text {
 	font-size: 16px;
 	background-color: #fff;
 	width: 225px;
@@ -60,7 +60,7 @@
 	box-sizing: border-box;
 }
 
-.box-2:first-child {
+.inlineblock-text:first-child {
 	margin-right: 50px;
 }
 

@@ -5,6 +5,7 @@
 	width: 900px;
 	padding: 20px;
 	background-color: #eff3f4;
+	margin: 0 auto;
 }
 
 .clearfix:after {

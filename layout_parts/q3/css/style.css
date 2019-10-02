@@ -31,7 +31,7 @@
 	background-color: #ecf1f2;
 }
 
-.table tr:last-child {
+.table tfoot tr {
 	border-top: dashed #000 2px;
 }
 
