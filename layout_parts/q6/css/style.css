@@ -56,12 +56,15 @@
 
 /*---------------------------------------------*/
 
-.is-position {
+.is-stable {
 	position: relative;
 }
 
+.is-flexible {
+	position: relative;
+}
 
-.is-stable {
+.is-stable-text {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -76,7 +79,7 @@
 }
 
 
-.is-flexible {
+.is-flexible-text {
 	position: absolute;
 	top: 50%;
 	left: 50%;
