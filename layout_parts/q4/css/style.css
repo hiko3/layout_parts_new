@@ -3,3 +3,59 @@
 /* 回答はここに書いてね */
 
 /* 回答はここに書いてね */
+
+.q4-box {
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.q4-contents {
+	display: table;
+	width: 100%;
+	margin-top: 20px;
+	background-color: #ECF1F2;
+}
+
+.q4-contents:first-child {
+	margin-top: 0;
+}
+
+.box-cell {
+	display: table-cell;
+	text-align: center;
+	padding: 20px;
+}
+
+.fixed-box1 {
+	width: 100px;
+	background-color: #fdc8b8;
+}
+
+.variable-box1 {
+	background-color: #e0abd9;
+}
+
+.fixed-box2 {
+	width: 100px;
+	background-color: #b6d8ed;
+}
+
+.variable-box2 {
+	background-color: #e5d32e;
+}
+
+.variable-box3 {
+	background-color: #ec8f9a;
+}
+
+.fixed-box3 {
+	width: 500px;
+	background-color: #8fdcad;
+}
+
+
+
+
+
+
+

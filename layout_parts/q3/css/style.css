@@ -3,3 +3,37 @@
 /* 回答はここに書いてね */
 
 /* 回答はここに書いてね */
+.table {
+	table-layout: fixed;
+	width: 100%;
+	border: solid #dedede 1px;
+}
+
+.table th {
+	text-align: center;
+	background-color: #2244aa;
+	font-size: 18px;
+	line-height: 26px;
+	color: #fff;
+	border: solid #dedede 1px;
+	padding: 10px;
+}
+
+.table td {
+	text-align: center;
+	font-size: 16px;
+	line-height: 22px;
+	border: solid #dedede 1px;
+	padding: 10px;
+}
+
+.table tr:nth-child(odd) {
+	background-color: #ecf1f2;
+}
+
+.table tr:last-child {
+	border-top: dashed #000 2px;
+}
+
+
+
